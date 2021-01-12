@@ -1,0 +1,661 @@
+/*==================================================================================== 
+
+contents.css v1
+2006/09/20
+
+
+====================================================================================*/
+
+
+/* /⡦p main.css ----------------------------------------------------------------*/
+table{
+	width:100%;
+	border: 1px solid #CCC;
+	padding:0px;
+	margin:0px 0px 20px;
+	border-collapse:collapse;
+}
+th{
+	border: 1px solid #CCC;
+	padding:5px;
+	color: #333;
+	background-color: #FFEFFE;
+}
+td{
+	border: 1px solid #CCC;
+	padding:5px;
+}
+/* //⡦p main.css ----------------------------------------------------------------*/
+
+/* ƥĥȥ h2 ----------------------------------------------------------------*/
+#Title{
+	margin:0px 0 20px;
+	padding: 0px;
+	width:860px;
+	height:190px;
+	padding: 0px;
+	background:url(../images/visual_bg.jpg) repeat-x bottom;
+}
+#Title h2{
+	margin:0px;
+	padding: 0px;
+	width:860px;
+	height:150px;
+}
+
+
+#Title2{
+	margin: 0px;
+	padding: 0px;
+	width: 860px;
+}
+
+#Title2 h2.h2_big{
+	margin: 0px;
+	padding: 0px;
+	width: 860px;
+}
+/* /ƥĥȥ h2 ----------------------------------------------------------------*/
+
+
+/* ѥ#iӥ ----------------------------------------------------------------*/
+#Pannavi{
+	margin:0px;
+	padding:0;
+	width:840px;
+	font-size:85%;
+	text-align:left;
+	position:relative;
+	top:10px;
+	right:0;
+	left:10px;
+}
+#Pannavi ul{
+	margin:0px;
+	padding: 0px;
+}
+#Pannavi li{
+	margin:0px;
+	padding: 0px;
+	display: inline;	
+}
+/* /ѥ#iӥ ----------------------------------------------------------------*/
+
+/* ֥ʥӥ ----------------------------------------------------------------*/
+#SubNavigation{
+	margin:0px 0 30px;
+	padding:20px 0px 0;
+	width:200px;
+	float:right;
+	/*background:url(../images/subnavi_top2.jpg) no-repeat top;*/
+}
+
+#SubNavigation ul{
+	margin:0;
+	padding:0 0 11px;
+	/*background:url(../images/subnavi_end2.jpg) no-repeat bottom;*/
+}
+
+#SubNavigation li{
+	margin:0;
+	padding:0 15px 15px;
+	list-style:none;
+	background:url(../images/subnavi_in2.jpg) repeat-y;
+}
+#SubNavigation li a{
+	padding:0 0 0 12px;
+	background:url(../images/footer_li.jpg) no-repeat 0 2px;
+	text-decoration:none;
+	color:#222;
+}
+#SubNavigation li a:hover{
+	text-decoration:underline;
+	color:#e7510f;
+}
+#SubNavigation .Menu_Subnabi{
+    text-align:center;
+	margin: 15px 0px 0px 0px;
+	padding: 0px;
+}
+#SubNavigation .Menu_Subnabi img{
+    margin: 0px;
+	padding: 7px;
+}
+#SubNavigation2{
+    margin:0px;
+	padding:0px;
+	width:200px;
+	float:right;
+}
+#SubNavigation2_Top{
+    margin:0px 0px 0px 0px;
+	padding:20px 0px 0px;
+	width:200px;
+	background:url(../images/subnavi_top2.jpg) no-repeat top;
+	height:11px;
+}
+#SubNavigation2_Middle{
+    margin:-20px 0px 0px 0px;
+	padding:0px 0px 0px 10px;
+	width:190px;
+	height:auto;
+	background:url(../images/subnavi_in2.jpg) repeat-y;
+}
+#SubNavigation2_End{
+    margin:0px 0px 10px;
+	width:200px;
+	padding:0px;
+	background:url(../images/subnavi_end2.jpg) no-repeat 0px 0px;
+	height:11px;
+}
+/* /֥ʥӥ ----------------------------------------------------------------*/
+
+/* side_banner----------------------------------------------------------------*/
+div.side_banner{
+	margin: 15px 0;
+	padding: 0;
+}
+/* side_banner----------------------------------------------------------------*/
+
+/* ƥ ----------------------------------------------------------------*/
+#ContentsBody{
+	margin:0px;
+	padding:0px 0px 20px;
+	width:610px;
+	float:left;
+}
+
+#ContentsBody h3{
+	background:url(../images/h3_bg.jpg) no-repeat bottom;
+	font-size:1.4em;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0;
+	padding-bottom: 12px;
+	padding-left: 10;
+}
+
+#ContentsBody h4.title {
+	color:#FF6197;
+	font-size:1.2em;
+	background-image: url(../images/h4lineyt2.jpg);
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	padding-bottom: 12px;
+	font-weight: bold;
+	background-position: bottom;
+	text-align: left;
+	float: left;
+	width: 610px;
+	height: 21px;
+}
+#ContentsBody h5{
+	color:#333333;
+	font-size:1.1em;
+	background-image: url(../images/h5icon.jpg);
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 32px;
+	background-position: left top;
+}
+#ContentsBody h6{
+	color:#333333;
+	font-size:1.1em;
+	background-image: url(../images/h6icon.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	padding-left: 15px;
+}
+
+#ContentsBody p{
+	margin:0px;
+	padding: 0px 0px 10px 0px;
+}
+
+#ContentsBody ul{
+	margin:0px;
+	padding: 5px 10px;
+}
+
+#ContentsBody li{
+	margin:0px 10px;
+	padding: 0px;
+}
+
+#ContentsBody dl{
+	margin:0px;
+	padding: 5px 0px;
+}
+
+#ContentsBody dt{
+	margin:0px;
+	padding: 0px 0px;
+}
+
+#ContentsBody dd{
+	margin:0px;
+	padding: 0px 0px;
+}
+/* /ƥ ----------------------------------------------------------------*/
+
+#mooncycle table{
+	border:1px;
+	border-color: #333333;
+}
+#mooncycle th{
+	background-color:#FFEFFE;
+	color:#111111;
+	padding:5px 2px 2px 2px;
+	text-align:center;
+	font-size:11px;
+	line-height:2em;
+	vertical-align:middle;
+	border-color: #333333;
+}
+#mooncycle td{
+	background-color:#ffffff;
+	color:#111111;
+	padding:5px 2px 2px 2px;
+	font-size:10px;
+	line-height:2em;
+	vertical-align:middle;
+	border-color: #333333;
+}
+
+#Info table{
+	border:none;
+}
+#Info th{
+	border:none;
+	border-bottom:1px solid #ccc;
+	background:none;
+	color:#fe475c;
+	padding:15px 5px 5px;
+	text-align:left;
+	font-weight:normal;
+	line-height:2em;
+	width:20%;
+	vertical-align:top;
+}
+#Info td{
+	border:none;
+	border-bottom:1px solid #ccc;
+	padding:15px 5px 5px;
+	line-height:2em;
+	vertical-align:top;
+}
+.tdGreen{
+	background:#fff4f8;
+}
+
+
+
+#Flow table{
+	border:none;
+}
+#Flow th{
+	border:none;
+	border-bottom:1px solid #ccc;
+	background:none;
+	color:#FF6197;
+	padding:5px 0px 2px;
+	text-align:left;
+	line-height:2em;
+	vertical-align:top;
+}
+#Flow td{
+	border:none;
+	padding:15px 5px 5px;
+	line-height:1.8em;
+	vertical-align:top;
+}
+#Flow th strong{
+	color:#FF6197;
+	font-weight:bold;
+	font-size:1.6em;
+}
+
+
+#GoogleMap{
+	padding:10px;
+	width: 475px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.Center{
+	text-align:center;
+	margin:10px auto;
+}
+
+
+
+.Report{
+	padding:10px;
+}
+
+#ContentsBody p.caution{
+	font-size:0.85em;
+	padding:0 0 5px;
+}
+
+
+#PriceMen th{
+	background:#EAF0FD;
+	text-align:left;
+	vertical-align:top;
+	width:25%;
+}
+
+#PriceWomen th{
+	background:#FFEFFE;
+	text-align:left;
+	vertical-align:top;
+	width:25%;
+}
+#ContentsBody .first_list{
+    margin-left:20px;
+}
+#ContentsBody .first_list li{
+    list-style:lower-greek;
+	list-style:decimal;
+}
+#Sitemap .Center{
+    width:300px;
+	float:left;
+    margin:0px;
+	padding:0px;
+}
+#Sitemap dl{
+    width:280px;
+	margin:0px 0px 20px 0px;
+	padding:0px 10px;
+}
+#Sitemap dt{
+	margin:0px;
+	padding:0px 0px 5px 20px;
+	background:url(../images/sitemap_dt.jpg) no-repeat 0px 3px;
+	font-size:115%;
+	font-weight:bold;
+	text-align:left;
+}
+#Sitemap dt a{
+	color:#fe6783;
+	text-decoration:none;
+}
+#Sitemap dt a:hover{
+	padding:0px 0px 0px 10px;
+}
+#Sitemap dd{
+	margin:0px 0px 5px 30px;
+	padding:0px;
+	text-align:left;
+}
+#Sitemap dd a{
+    text-decoration:underline;
+	color:#333333;
+}
+#Sitemap dd a:hover{
+	padding:0px 0px 0px 10px;
+}
+
+/* ƥ ѥ֥å----------------------------------------------------------------*/
+.h3block{
+	padding: 10px 0px;
+	margin: 0px;
+}
+.h4block{
+	padding: 5px 0px;
+	margin: 0px;
+}
+.LBlock{
+	float:left;
+}
+.RBlock{
+	float:right;
+}
+.Block{
+	width:500px;
+	margin:10px auto;
+	padding:5px 10px;
+	border:1px solid #DEE3CD;
+	clear:both;
+}
+.BlockSP{
+	width:500px;
+	margin:20px auto;
+	padding:15px 10px 10px;
+	text-align:center;
+	font-size:1.2em;
+	color:#fff;
+	line-height:1em;
+	background-image: url(../komoimg/taikenback.gif);
+}
+.BlockSP strong{
+	font-size:1.6em;
+}
+/* /ƥ ѥ֥å----------------------------------------------------------------*/
+
+
+/* 饹----------------------------------------------------------------*/
+
+.lframe{
+	padding: 2px;
+	margin:0px 10px 10px 0px;
+	border: 1px solid #CCCCCC;
+	float:left;
+}
+.rframe{
+	padding: 2px;
+	margin:0px 0px 10px 10px;
+	border: 1px solid #CCCCCC;
+	float:right;
+}
+.frame{
+	padding: 2px;
+	margin:0px 0px 10px 0px;
+	border: 1px solid #CCCCCC;
+}
+/* /饹----------------------------------------------------------------*/
+
+
+/* raindrop----------------------------------------------------------------*/
+div#raindrop{
+	margin:0;
+	padding: 0;
+}
+#ContentsBody div#raindrop h3.h3_img{
+	clear:both;
+	margin:30px 0 20px 0;
+	padding: 0;
+	background: none;
+}
+
+div#raindrop div#rain_box{
+	margin:0 0 25px 0;
+	padding: 0 0 20px 0;
+	text-align: center;
+	font-weight: bold;
+	color: #3f2b2a;
+	background: url(../komoimg/raindrop/raindrop_back.jpg) no-repeat top #ead4c6;
+}
+
+div#raindrop p{
+	margin: 0px;
+	padding: 0px 20px 10px 50px;
+}
+div#raindrop ul{
+	width: 250px;
+	margin: 0px 0px 0px 40px;
+	padding: 0px;
+	list-style: none;
+}
+	div#raindrop ul li{
+		border-bottom: 1px solid #856e6c;
+	}
+
+div#raindrop .f_right{
+	margin:0px 0px 25px 25px;
+	padding: 0px;
+	float:right;
+}
+
+div#raindrop div.voice_box{
+	height: 117px;
+	margin:0 0 30px 0;
+	padding: 20px 30px;
+	background: url(../komoimg/raindrop/voice_back.jpg) no-repeat top;
+}
+	div#raindrop div.voice_box h4{
+		margin:0 0 10px 0;
+		padding: 0;
+		color: #856e6c;
+		font-weight: bold;
+		font-size: 120%;
+	}
+	div#raindrop div.voice_box p{
+		margin:0;
+		padding: 0;
+	}
+
+
+/* raindrop----------------------------------------------------------------*/
+
+
+
+/* report----------------------------------------------------------------*/
+#Title2 h2.h2_report{
+	margin: 0px;
+	padding: 0px;
+	width: 860px;
+}
+div#report{
+	margin:0;
+	padding: 0;
+}
+#ContentsBody div#report h3.h3_img{
+	clear:both;
+	margin:40px 0 20px 0;
+	padding: 0;
+	background: none;
+}
+#ContentsBody div#report p{
+	padding: 5px 10px;
+}
+	div#report div#report_box{
+		margin:23px 0 25px 0;
+		padding: 0 0 10px 0;
+		text-align: center;
+		color: #000;
+		background: url(../komoimg/report/report_back.jpg) no-repeat top #fee4ec;
+	}
+	div#report div#report_box h3.h3_img{
+	clear:both;
+	margin:0 0 20px 0;
+	padding: 35px 0 0 0;
+	background: none;
+	}
+	div#report div#report_box .bt_more{
+		padding:10px 20px 0 0;
+		text-align: right;
+		background: url(../komoimg/report/bt_more.png) no-repeat 420px 11px;
+	}
+		div#report div#report_box .bt_more a{
+			color: #ff85ac;
+			text-decoration: none;
+		}
+		div#report div#report_box .bt_more a:hover{
+			text-decoration: underline;
+		}
+div#report .f_right{
+	margin:0px 0px 5px 10px;
+	padding: 0px;
+	float:right;
+}
+div#report .f_left{
+	margin:0px 15px 5px 0px;
+	padding: 0px;
+	float:left;
+}
+	div#report div#comment_box{
+		margin:0 0 0 0;
+		padding: 0 0 10px 0;
+		background: url(../komoimg/report/comment_back.jpg) no-repeat top #ffb6cd;
+	}
+	div#report div#comment_box p{
+		padding: 0 10px 5px 10px;
+	}
+
+
+/* report----------------------------------------------------------------*/
+
+/* banner_contact----------------------------------------------------------------*/
+#banner_contact{
+	margin: 80px 0px;
+	padding: 0px;
+}
+/* banner_contact----------------------------------------------------------------*/
+
+
+#att_sec {
+	background: #f8f5ec;
+	margin: 20px 30px;
+	padding: 20px;
+	text-align: center;
+}
+
+#att_sec h2 {
+	font-size: 18px;
+}
+
+#att_sec ul li {
+	display: inline-block;
+	padding-left: 12px;
+	background: url("../images/footer_li.jpg") no-repeat scroll 0px 8px transparent;
+	list-style: none;
+}
+
+/* 20210112追記 */
+#ContentsBody .crystalTtl1 {
+    text-align: center;
+    color: #FF5D9B;
+    background: none;
+    font-size: 2.4em;
+}
+#ContentsBody .underCrystalTtl {
+	text-align: center;
+    font-size: 1.2em;
+	color: #FF5D9B;
+	position: relative;
+}
+#ContentsBody .crystalText {
+	text-align: center;
+    margin-bottom: 15px;
+}
+#ContentsBody .crystalImg {
+	margin-bottom: 30px;
+}
+#ContentsBody .crystalTtl2 {
+	text-align: center;
+    color: #FF5D9B;
+    font-size: 2.4em;
+}

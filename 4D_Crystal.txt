@@ -1,0 +1,132 @@
+<h3 class=\"crystalTtl1\">4Dクリスタルフェイス</h3>
+<p class=\"underCrystalTtl\">ゆがみのない新しい次元の美しさを手に入れる</p>
+
+<p class=\"crystalText\">4Dクリスタルフェイスは完全オーダーメイドのプログラムです。<br>
+これまで1,000人以上のお客様にご体験いただき、変化を実感されております。</p>
+
+<p class=\"crystalImg\"><img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal1.jpg\" alt=\"ゆがみのない新しい次元の美しさを手に入れる\" /></p>
+
+<h4 class=\"crystalTtl2\">4つの要素　?　4つのケア</h4>
+
+<p class=\"crystalText\">4つの「要素」と4つの「ケア」を、状態に合わせてセレクトし、<br>
+組み合わせることで、負担も少なく、効率良く新しい次元の美しさを目指せます。</p>
+
+<table>
+    <tbody>
+        <tr>
+            <th>要素</th>
+            <td>骨</td>
+            <td>筋肉</td>
+            <td>皮膚</td>
+            <td>体液</td>
+        </tr>
+        <tr>
+            <th>ケア</th>
+            <td>鍼</td>
+            <td>施術</td>
+            <td>セルフケア</td>
+            <td>ホームケア</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 class=\"crystalTtl3\">お顔の骨も老化します</h4>
+
+<div class=\"crystalFlex1\">
+    <div class=\"crystalLeft\">
+        <p>ゆがみを<span>早めにリセット</span>することが重要。<br>
+        土台の頭蓋骨、カラダから整えましょう！<br><br>
+        また、スキンケアでは対応できない<br>
+        <span>隠れゆがみを早期ケア</span>して、<br>
+        一生キレイが目指せます<br><br>
+        <span>続けるほどにお顔とカラダに軸が通り<br>
+        より左右対称に整います！</span></p>
+    </div>
+    <div class=\"crystalRight\">
+    <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal2.jpg\" alt=\"お顔の骨も老化します\" />
+    </div>
+</div>
+
+<h4 class=\"crystalTtl3\">あなたの顔も歪んでいるかも？歪みチェック項目</h4>
+
+<div class=\"crystalFlex2\">
+    <div class=\"crystalLeft\">
+        <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal3.jpg\" alt=\"あなたの顔も歪んでいるかも？歪みチェック項目\" />
+    </div>
+    <div class=\"crystalRight\">
+        <p>
+        額の中心から顎の中心を直線で結び<br>
+        ①から⑤のポイントがずれている場合は歪みがある証拠です<br>
+        <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal4.png\" alt=\"あなたの顔も歪んでいるかも？歪みチェック項目\" /><br>
+        鏡を見ながらチェックししてみてください
+        </p>
+    </div>
+</div>
+
+<div class=\"crystalFlex2\">
+    <div class=\"crystalLeft\">
+        <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal5.jpg\" alt=\"あなたの顔も歪んでいるかも？歪みチェック項目\" />
+    </div>
+    <div class=\"crystalRight\">
+        <p>
+        次に口元のゆがみチェックです。<br>
+        <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal6.png\" alt=\"あなたの顔も歪んでいるかも？歪みチェック項目\" /><br>
+        </p>
+    </div>
+</div>
+
+<div class=\"crystalBA\">
+    <h4 class=\"crystalTtl4\">4Dクリスタルフェイス　BEFORE AFTER</h4>
+    <ul>
+        <li>
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal6.jpg\" alt=\"中心軸が整い口角の高さ違いが軽減。お顔も一回りコンパクトに変化。\" />
+            <p>中心軸が整い口角の高さ違いが軽減。お顔も一回りコンパクトに変化。</p>
+        </li>
+        <li>
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal7.jpg\" alt=\"中心軸が整い口角の高さ違いが軽減。お顔も一回りコンパクトに変化。\" />
+            <p>まぶたが下がっていたのがわずか3回で整形級の変化。</p>
+        </li>
+        <li>
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal8.jpg\" alt=\"中心軸が整いアゴのずれが改善。口角の高さも左右で均等になってきました。\" />
+            <p>中心軸が整いアゴのずれが改善。口角の高さも左右で均等になってきました。</p>
+        </li>
+        <li>
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal9.jpg\" alt=\"中心軸が整いアゴのずれが改善。輪郭が左右対称になり美人度アップ！\" />
+            <p>中心軸が整いアゴのずれが改善。輪郭が左右対称になり美人度アップ！</p>
+        </li>
+        <li class=\"w100\">
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal10.jpg\" alt=\"左右対称にキレイに口角が上がるように変化。\" />
+            <p>左右対称にキレイに口角が上がるように変化。</p>
+        </li>
+    </ul>
+
+    <h4 class=\"crystalTtl5\"><img src=\"http://www.cara-roppongi.com/ufiles/Image/cryctalTtl2.jpg\" alt=\"他にもたくさんの方がゆがみを改善されています！\" /></h4>
+
+    <ul>
+        <li>
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal11.jpg\" alt=\"他にもたくさんの方がゆがみを改善されています！\" />
+        </li>
+        <li>
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal12.jpg\" alt=\"他にもたくさんの方がゆがみを改善されています！\" />
+        </li>
+        <li>
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal13.jpg\" alt=\"他にもたくさんの方がゆがみを改善されています！\" />
+        </li>
+        <li>
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal14.jpg\" alt=\"他にもたくさんの方がゆがみを改善されています！\" />
+        </li>
+        <li>
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal15.jpg\" alt=\"他にもたくさんの方がゆがみを改善されています！\" />
+        </li>
+    </ul>
+</div>
+
+<div class=\"crystalBA crystalBA2\">
+    <h4 class=\"crystalTtl4\">4Dクリスタルフェイス美容鍼<br>BEFORE AFTER</h4>
+    <ul>
+        <li>
+            <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal16.jpg\" alt=\"4Dクリスタルフェイス美容鍼\" />
+            <p>右頬の方がふっくらしていたのが左右バランス良く変化。 <br>お顔全体が一回り小さく引き締まり、目元も大きくなりました。</p>
+        </li>
+    </ul>
+</div>

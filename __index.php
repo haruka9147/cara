@@ -11,6 +11,8 @@
 <meta name="Description" content="東京、表参道のプライベートサロンカーラ。アーユルヴェーダに基づいた体質診断も用いたおすすめのインドエステで体の中からキレイにさせて頂きます。セルライト除去、脂肪溶解、オイルマッサージなどご希望の方は是非一度ご連絡お待ちしております。" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="stylesheet" type="text/css" href="/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="/slick/slick-theme.css"/>
 <link rel="stylesheet" type="text/css" href="css/main.css" />
 <link rel="stylesheet" type="text/css" href="css/navigation.css" />
 <script type="text/javascript" src="js/images.js"></script>
@@ -23,12 +25,18 @@
 		<div id="GlobalHeader">
 			<div id="GlobalIn">
 				<?PHP include('header.php'); ?>
-				<div id="TopImage">
+				<!-- <div id="TopImage">
 					<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="860" height="350">
 					<param name="movie" value="images/top6.swf" />
 					<param name="quality" value="high" /><param name="LOOP" value="false" />
 					<embed src="images/top6.swf" width="860" height="350" loop="false" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></embed>
 					</object>
+				</div> -->
+				<div id="slide">
+					<div><img src="/images/sp/top1.jpg" alt="" width="100%" /></div>
+					<div><img src="/images/sp/top2.jpg" alt="" width="100%" /></div>
+					<div><img src="/images/sp/top3.jpg" alt="" width="100%" /></div>
+					</ul>
 				</div>
 				<div id="top_navi">
 					<!--<ul>
@@ -153,5 +161,19 @@
 		</div><!--GlobalHeader_end-->
 	</div><!--Global_end-->
 </div><!--Wrapper_end-->
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/slick/slick.min.js"></script>
+<script>
+$(document).ready(function(){
+  $('#slide').slick({
+	arrows: false,
+	autoplay: true,
+	infinite: true,
+	speed: 2000,
+	fade: true,
+  });
+});
+</script>
 </body>
 </html>

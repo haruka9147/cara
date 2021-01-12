@@ -1,0 +1,87 @@
+<img alt=\"ムーン・バイオセラピー\" width=\"100%\" src=\"http://www.cara-elegante.com/komoimg/h2_moon2.jpg\" />
+
+<h2>ムーン・バイオセラピーとは</h2>
+<h3>人間は月の機能\（成長と休息を繰り返す自然のリズム）を体内に有しているといわれています。</h3>
+<p><img width=\"100%\" src=\"images/mooncycle.jpg\" alt=\"ムーン・バイオセラピー画像\" /></p>
+<h3>至福のトリートメントメソ\ッド</h3>
+<p>現代では、慢性的な症状として、ほとんどの方が首・肩・背中のハリやコリなどの悩みを抱えており、そのことにより脊髄が圧迫され、自律神経が正常な働きをおこなえないといわれています。スパロームでは、首・肩・背中を集中的にほぐしつつ、経絡への刺激により自律神経の正常化のため、 4千年の長い歴史の中で体系化された中国独自の経絡理論である治療法「<font color=\"#ff0000\">推拿\</font>（すいな）」をベースにヨガの思想を取り入れて構\築された至福のトリートメントメソ\ッドです。ムーンサイクルに合わせて特別に調合したスパロームのオイルと完璧に調和されています。</p>
+<p><img src=\"http://www.cara-roppongi.com/ufiles/Image/mooncycle2(1).jpg\" alt=\"\" width=\"100%\" /></p>
+<h3>「推拿\」とは</h3>
+<p><font color=\"#ff0000\">推拿\</font>マッサージは中国医学に基づく特殊なマッサージ。「気と血」の流れに沿って全身をマッサージし、経路への刺激により身体を活性化。自然治癒力を高め、体調を整えるのに効果的です。</p>
+<h3>ムーン・バイオセラピー４つの特徴</h3>
+<p>月の特徴と生体のバイオリズムの関係に着目し、効果的なケアを行います。</p>
+<div id=\"mooncycle\">
+<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 80%;\">
+    <tbody>
+        <tr>
+            <th>月の名称</th>
+            <th>日数</th>
+            <th>月の機能\</th>
+            <th nowrap=\"nowrap\">生体の<br />
+            バイオリズム</th>
+            <th nowrap=\"nowrap\">適したケア</th>
+        </tr>
+        <tr>
+            <td nowrap=\"nowrap\">新月</td>
+            <td align=\"center\">7</td>
+            <td align=\"center\">浄化</td>
+            <td>細胞の崩壊と<br />
+            再構\築のスタート</td>
+            <td class=\"txt\">スリミングケアにより体液の循環を促進し、細胞レベルからの賦活再生を図ります。肌の基礎作りの準備を始めます。</td>
+        </tr>
+        <tr>
+            <td nowrap=\"nowrap\">上弦の半月<br />
+            first quarter<br />
+            moon</td>
+            <td align=\"center\">7</td>
+            <td align=\"center\">促進</td>
+            <td>新しい細胞の芽生えと<br />
+            バイオリズムの適正化</td>
+            <td>良質の細胞だけを蘇生させるために全身マッサージで身体を引き締め細胞の生成を促進し余分な脂肪を除去。美肌の基礎を作ります。</td>
+        </tr>
+        <tr>
+            <td nowrap=\"nowrap\">満月<br />
+            full moon</td>
+            <td align=\"center\">7</td>
+            <td align=\"center\">蘇生</td>
+            <td>生体のリズムの変化が最も<br />
+            大きくなり、老廃物が蓄積</td>
+            <td>老廃物が蓄積されないように血液とリンパの流れを促進し、冷え・むくみを解消します。</td>
+        </tr>
+        <tr>
+            <td nowrap=\"nowrap\">下弦の半月<br />
+            last quarter<br />
+            moon</td>
+            <td align=\"center\">7</td>
+            <td align=\"center\">安定</td>
+            <td>サイクルの終了に<br />
+            伴う安定と<br />
+            次のサイクルへの準備</td>
+            <td>上の３つのトリートメント効果が現れる時期です。リラクゼーションケアにより、肌を清潔に保ち、内面を鎮め、新月を迎える準備をします。</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<h3>体験料金について</h3>
+<p>体験料金についてはサロンまでお問い合わせください。</p>
+<table cellspacing=\"0\" cellpadding=\"0\" style=\"width: 80%;\">
+    <tbody>
+        <tr>
+            <th>営業時間</th>
+            <td>11:00～21:00</td>
+        </tr>
+        <tr class=\"tdGreen\">
+            <th>定休日</th>
+            <td>日曜・月曜</td>
+        </tr>
+        <tr>
+            <th>TEL</th>
+            <td>03-6804-3336<br />
+            メールでのお問い合わせは<a href=\"contact.php\">こちら</a>から<br />
+            ※当店は完全予\約制となっております。</td>
+        </tr>
+    </tbody>
+</table>
+<p>霜月マイア 監修<br />
+米国占星術協会 PMAFA会員<br />
+エソ\テリック占星術研究家 </p>

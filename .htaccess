@@ -1,0 +1,16 @@
+Redirect temp /menu_woman_sp.php http://www.cara-elegante.com/
+Redirect temp /menu_woman.php http://www.cara-elegante.com/
+Redirect temp /first.php http://www.cara-elegante.com/
+Redirect temp /first_sp.php http://www.cara-elegante.com/
+
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+AuthUserFile /home/hoge/html/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Please enter your ID and password"
+AuthType Basic
+order deny,allow
+<Files test.php>
+require valid-user
+</Files>
