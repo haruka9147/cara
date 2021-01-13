@@ -24,7 +24,7 @@
 	<div id="Global">
 		<div id="GlobalHeader">
 			<div id="GlobalIn">
-				<?PHP include('header.php'); ?>
+				<?PHP include('header_new.php'); ?>
 				<!-- <div id="TopImage">
 					<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="860" height="350">
 					<param name="movie" value="images/top6.swf" />
@@ -122,14 +122,14 @@
 					</div><!--ContentsLeft_end-->
 					<div id="ContentsRight">
 						<div id="navi_blog">
-							<img src="komoimg/top/navi_blog.jpg" alt="速攻ダイエットセラピスト　岩本侑貴恵" usemap="#navi_blog" width="300" height="116" />
+							<img src="komoimg/top/navi_blog_new.jpg" alt="速攻ダイエットセラピスト　岩本侑貴恵" usemap="#navi_blog" width="300" height="116" />
 							<map name="navi_blog">
 								<area href="http://ameblo.jp/cara-elegante/" target="_blank" shape="rect" alt="アメブロ" coords="125,10,290,56">
-								<area href="http://twitter.com/yukieiwamoto413" target="_blank" shape="rect" alt="Twitter" coords="125,61,205,106">
-								<area href="http://www.facebook.com/yukie.l.iwamoto" target="_blank" shape="rect" alt="facebook" coords="211,61,290,106">
+								<area href="http://www.facebook.com/yukie.l.iwamoto" target="_blank" shape="rect" alt="facebook" coords="125,60,290,106">
 							</map> 
 						</div>
 
+						<p align="center"><a href="/4D_Crystal.php"><img src="komoimg/crystal_banner.png" alt="4Dクリスタルフェイス" title="4Dクリスタルフェイス" /></a></p>
 						<p align="center"><a href="/raindrop.php"><img src="komoimg/top/navi_raindrop_off.jpg" alt="レインドロップ" title="レインドロップ" /></a></p>
 						<p align="center"><a href="/report.php"><img src="komoimg/top/navi_report_off.jpg" alt="体験レポート" title="体験レポート" /></a></p>
 

@@ -17,12 +17,12 @@
 <script type="text/javascript" src="js/images.js"></script>
 <script type="text/javascript" src="js/smartRollover.js"></script>
 </head>
-<body>
+<body style="display:none;">
 <div id="Wrapper">
 	<div id="Global">
 		<div id="GlobalHeader">
 			<div id="GlobalIn">
-				<?PHP include('header.php'); ?>
+				<?PHP include('header_new.php'); ?>
 			    <div id="Title">
 					<h2><img src="komoimg/h2_crystal.jpg" width="860" height="150" alt="4Dクリスタルフェイス" title="4Dクリスタルフェイス" /></h2>
 					<div id="Pannavi">
@@ -80,12 +80,7 @@
 		</div>
 	</div>
 </div>
-<script>
-//   var myPassWord = prompt('パスワードを入力してください');
-//   if ( myPassWord == "pass1" ){
-// 	  console.log('aaa');
-// 	  document.body.style.display = 'block';
-//   }
-</script>
+<script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="js/crystal.js"></script>
 </body>
 </html>

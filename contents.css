@@ -636,16 +636,53 @@ div#report .f_left{
 
 /* 20210112追記 */
 #ContentsBody .crystalTtl1 {
-    text-align: center;
+	text-align: center;
     color: #FF5D9B;
     background: none;
     font-size: 2.4em;
+    position: relative;
+    padding: 12px 0;
+}
+#ContentsBody .crystalTtl1:before,
+#ContentsBody .crystalTtl1:after {
+	content: "";
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	margin: auto 0;
+	background: url(../ufiles/Image/cristal-ttl1.png) no-repeat;
+	background-size: 63px auto;
+	width: 63px;
+	height: 48px;
+}
+#ContentsBody .crystalTtl1:before {
+	left: 80px;
+}
+#ContentsBody .crystalTtl1:after {
+    right: 80px;
+    transform: rotate(180deg);
+}
+#ContentsBody .crystalImg img {
+	width: 100%;
 }
 #ContentsBody .underCrystalTtl {
-	text-align: center;
+    text-align: center;
     font-size: 1.2em;
-	color: #FF5D9B;
-	position: relative;
+    color: #FF5D9B;
+    position: relative;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+#ContentsBody .underCrystalTtl:before {
+	content: "";
+	background: #FFEAEC;
+	width: 60px;
+	height: 6px;
+	position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
 }
 #ContentsBody .crystalText {
 	text-align: center;
@@ -657,5 +694,118 @@ div#report .f_left{
 #ContentsBody .crystalTtl2 {
 	text-align: center;
     color: #FF5D9B;
-    font-size: 2.4em;
+	font-size: 2.4em;
+	position: relative;
+	padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+#ContentsBody .crystalTtl2:before {
+	content: "";
+	background: #FFEAEC;
+	width: 60px;
+	height: 6px;
+	position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+}
+#ContentsBody .crystalTable {
+	font-size: 1.5em;
+    text-align: center;
+    border: 1px solid #FF9DC0;
+    border-collapse: collapse;
+    margin-bottom: 60px;
+}
+#ContentsBody .crystalTable th {
+	background: #FF9DC0;
+	color: #fff;
+	width: 20%;
+	padding: 15px 10px;
+	border: 1px solid #FF9DC0;
+}
+#ContentsBody .crystalTable td {
+	width: 20%;
+	border: 1px solid #FF9DC0;
+	padding: 15px 10px;
+}
+#ContentsBody .crystalTtl3 {
+	font-size: 1.8em;
+    color: #FF5D9B;
+    border-bottom: 3px dotted #FF5D9B;
+    padding: 0 10px 10px;
+}
+#ContentsBody .crystalFlex1 {
+	display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+#ContentsBody .crystalFlex1 .crystalLeft span {
+	color: #F5488A;
+}
+#ContentsBody .crystalFlex2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+#ContentsBody .crystalFlex2 .crystalLeft {
+	width: 257px;
+	margin-right: 20px;
+}
+#ContentsBody .crystalFlex2 .crystalRight {
+	width: 258px;
+}
+#ContentsBody .crystalFlex2 .crystalRight img {
+	display: block;
+    margin: 10px 0;
+}
+#ContentsBody .crystalBA {
+	background: #FFF5F6;
+	padding: 30px 15px;
+	margin-bottom: 80px;
+}
+#ContentsBody .crystalBA .crystalTtl4 {
+	background: #FF9DC0;
+    color: #fff;
+    padding: 10px;
+    font-size: 2.3em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#ContentsBody .crystalBA ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+	justify-content: space-between;
+	margin-bottom: 60px;
+}
+#ContentsBody .crystalBA li {
+	width: 43%;
+    margin: 0 0 15px;
+    padding: 15px;
+	background: #fff;
+	border-radius: 10px;
+}
+#ContentsBody .crystalBA li img {
+	width: 100%;
+}
+#ContentsBody .crystalBA li.w100 {
+	width: 100%;
+	text-align: center;
+}
+#ContentsBody .crystalBA li p {
+    margin-top: 10px;
+}
+#ContentsBody .crystalTtl5 img {
+	width: 100%;
+}
+#ContentsBody .crystalBA2 ul {
+	justify-content: center;
+    margin-bottom: 0;
+}
+#ContentsBody .crystalBA2 li p {
+	text-align: left;
+}
+#ContentsBody .crystalBA2 li {
+	width: 64%;
 }

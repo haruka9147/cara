@@ -11,7 +11,7 @@
 <p class=\"crystalText\">4つの「要素」と4つの「ケア」を、状態に合わせてセレクトし、<br>
 組み合わせることで、負担も少なく、効率良く新しい次元の美しさを目指せます。</p>
 
-<table>
+<table class=\"crystalTable\">
     <tbody>
         <tr>
             <th>要素</th>
@@ -56,7 +56,7 @@
     <div class=\"crystalRight\">
         <p>
         額の中心から顎の中心を直線で結び<br>
-        ①から⑤のポイントがずれている場合は歪みがある証拠です<br>
+        ①から⑤のポイントがずれている場合は歪みがある証拠です
         <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal4.png\" alt=\"あなたの顔も歪んでいるかも？歪みチェック項目\" /><br>
         鏡を見ながらチェックししてみてください
         </p>
@@ -69,8 +69,8 @@
     </div>
     <div class=\"crystalRight\">
         <p>
-        次に口元のゆがみチェックです。<br>
-        <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal6.png\" alt=\"あなたの顔も歪んでいるかも？歪みチェック項目\" /><br>
+        次に口元のゆがみチェックです。
+        <img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal5.png\" alt=\"あなたの顔も歪んでいるかも？歪みチェック項目\" /><br>
         </p>
     </div>
 </div>
@@ -100,7 +100,7 @@
         </li>
     </ul>
 
-    <h4 class=\"crystalTtl5\"><img src=\"http://www.cara-roppongi.com/ufiles/Image/cryctalTtl2.jpg\" alt=\"他にもたくさんの方がゆがみを改善されています！\" /></h4>
+    <h4 class=\"crystalTtl5\"><img src=\"http://www.cara-roppongi.com/ufiles/Image/cryctalTtl2.png\" alt=\"他にもたくさんの方がゆがみを改善されています！\" /></h4>
 
     <ul>
         <li>
