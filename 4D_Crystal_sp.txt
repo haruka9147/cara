@@ -8,7 +8,7 @@
 
 <p class=\"crystalImg\"><img src=\"http://www.cara-roppongi.com/ufiles/Image/crystal1.jpg\" alt=\"ゆがみのない新しい次元の美しさを手に入れる\" /></p>
 
-<h4 class=\"crystalTtl2\">4つの要素　?　4つのケア</h4>
+<h4 class=\"crystalTtl2\">4つの要素　×　4つのケア</h4>
 
 <p class=\"crystalText\">4つの「要素」と4つの「ケア」を、状態に合わせてセレクトし、組み合わせることで、負担も少なく、効率良く新しい次元の美しさを目指せます。</p>
 
