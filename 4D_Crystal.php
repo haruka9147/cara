@@ -22,7 +22,7 @@
 	<div id="Global">
 		<div id="GlobalHeader">
 			<div id="GlobalIn">
-				<?PHP include('header_new.php'); ?>
+				<?PHP include('header.php'); ?>
 			    <div id="Title">
 					<h2><img src="komoimg/h2_crystal.jpg" width="860" height="150" alt="4Dクリスタルフェイス" title="4Dクリスタルフェイス" /></h2>
 					<div id="Pannavi">
